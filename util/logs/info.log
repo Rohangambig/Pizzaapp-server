@@ -1,0 +1,6378 @@
+{
+  message: 'incorrect password',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-06 14:31:12'
+}
+{
+  message: 'incorrect password',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-06 14:31:25'
+}
+{
+  message: 'incorrect password',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-06 14:33:26'
+}
+{
+  message: 'Username already exists',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-06 14:33:39'
+}
+{
+  message: 'incorrect password',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-06 14:34:02'
+}
+{
+  message: 'incorrect password',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-06 14:34:26'
+}
+{
+  userId: new ObjectId('6901f18388f654c6ab9c7a27'),
+  username: 'Rohan',
+  message: 'logged in',
+  level: 'info',
+  timestamp: '2025-11-06 14:34:37'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 14:34:37'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 14:34:44'
+}
+{
+  message: 'token checked',
+  visitedURL: '/decre-quantity',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 14:34:47'
+}
+{
+  message: 'token checked',
+  visitedURL: '/decre-quantity',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 14:34:47'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 14:34:48'
+}
+{
+  message: 'token checked',
+  visitedURL: '/delete-cart',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 14:34:49'
+}
+{
+  message: 'remove the cart item',
+  cartId: '690b1e4269e093b8707e49e3',
+  userId: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 14:34:49'
+}
+{
+  message: 'token checked',
+  visitedURL: '/delete-cart',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 14:34:49'
+}
+{
+  message: 'remove the cart item',
+  cartId: '690b28b21bb33257ed19458c',
+  userId: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 14:34:49'
+}
+{
+  message: 'token checked',
+  visitedURL: '/delete-cart',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 14:34:52'
+}
+{
+  message: 'remove the cart item',
+  cartId: '690b28b51bb33257ed19458e',
+  userId: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 14:34:52'
+}
+{
+  message: 'token checked',
+  visitedURL: '/delete-cart',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 14:34:52'
+}
+{
+  message: 'remove the cart item',
+  cartId: '690b28cc1bb33257ed194594',
+  userId: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 14:34:52'
+}
+{
+  message: 'token checked',
+  visitedURL: '/delete-cart',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 14:34:53'
+}
+{
+  message: 'remove the cart item',
+  cartId: '690b2988d3a0c8d74be9e8dc',
+  userId: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 14:34:53'
+}
+{
+  message: 'token checked',
+  visitedURL: '/delete-cart',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 14:34:56'
+}
+{
+  message: 'remove the cart item',
+  cartId: '690b299ad3a0c8d74be9e8df',
+  userId: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 14:34:56'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 14:34:58'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 14:35:00'
+}
+{
+  message: 'token checked',
+  visitedURL: '/decre-quantity',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 14:35:01'
+}
+{
+  message: 'token checked',
+  visitedURL: '/decre-quantity',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 14:35:02'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 14:35:03'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 14:35:03'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 14:35:03'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 14:35:03'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 14:35:03'
+}
+{
+  message: 'token checked',
+  visitedURL: '/decre-quantity',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 14:35:04'
+}
+{
+  message: 'token checked',
+  visitedURL: '/decre-quantity',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 14:35:04'
+}
+{
+  message: 'token checked',
+  visitedURL: '/decre-quantity',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 14:35:04'
+}
+{
+  message: 'token checked',
+  visitedURL: '/delete-cart',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 14:35:05'
+}
+{
+  message: 'remove the cart item',
+  cartId: '690b29f8be9171ec3054c701',
+  userId: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 14:35:05'
+}
+{
+  message: 'Please log in to continue',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-06 14:51:37'
+}
+{
+  message: 'Please log in to continue',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-06 14:51:40'
+}
+{
+  message: 'Please log in to continue',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-06 14:51:40'
+}
+{
+  message: 'Please log in to continue',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-06 14:51:53'
+}
+{
+  message: 'Please log in to continue',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-06 14:51:53'
+}
+{
+  message: 'Please log in to continue',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-06 14:54:01'
+}
+{
+  message: 'Please log in to continue',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-06 14:54:01'
+}
+{
+  message: 'Please log in to continue',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-06 14:54:44'
+}
+{
+  message: 'Please log in to continue',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-06 14:54:46'
+}
+{
+  message: 'Please log in to continue',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-06 14:55:38'
+}
+{
+  message: 'Please log in to continue',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-06 14:58:35'
+}
+{
+  message: 'Please log in to continue',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-06 14:59:33'
+}
+{
+  message: 'Please log in to continue',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-06 14:59:36'
+}
+{
+  message: 'Please log in to continue',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-06 14:59:36'
+}
+{
+  userId: new ObjectId('6901f18388f654c6ab9c7a27'),
+  username: 'Rohan',
+  message: 'logged in',
+  level: 'info',
+  timestamp: '2025-11-06 14:59:54'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 14:59:54'
+}
+{
+  message: 'token checked',
+  visitedURL: '/custom-pizza',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 14:59:57'
+}
+{
+  message: 'user added cart item',
+  pizzaId: '690208cf8ab92b674672c8ce',
+  userId: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 14:59:57'
+}
+{
+  message: 'token checked',
+  visitedURL: '/custom-pizza',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 14:59:59'
+}
+{
+  message: 'user added cart item',
+  pizzaId: '690208cf8ab92b674672c8cf',
+  userId: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 14:59:59'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 15:00:00'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 15:00:02'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 15:00:02'
+}
+{
+  message: 'token checked',
+  visitedURL: '/decre-quantity',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 15:00:03'
+}
+{
+  message: 'token checked',
+  visitedURL: '/decre-quantity',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 15:00:03'
+}
+{
+  message: 'token checked',
+  visitedURL: '/custom-pizza',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 15:00:06'
+}
+{
+  message: 'user added cart item',
+  pizzaId: '690208cf8ab92b674672c8d0',
+  userId: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 15:00:06'
+}
+{
+  message: 'token checked',
+  visitedURL: '/custom-pizza',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 15:00:13'
+}
+{
+  message: 'user build their pizza',
+  userId: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 15:00:13'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 15:00:16'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 15:00:17'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 15:00:18'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 15:00:18'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 15:00:18'
+}
+{
+  message: 'token checked',
+  visitedURL: '/delete-cart',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 15:00:19'
+}
+{
+  message: 'remove the cart item',
+  cartId: '690c6a950b9a26ac7ccb7a99',
+  userId: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 15:00:19'
+}
+{
+  message: 'token checked',
+  visitedURL: '/delete-cart',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 15:00:19'
+}
+{
+  message: 'remove the cart item',
+  cartId: '690c6a970b9a26ac7ccb7a9b',
+  userId: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 15:00:19'
+}
+{
+  message: 'token checked',
+  visitedURL: '/delete-cart',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 15:00:20'
+}
+{
+  message: 'remove the cart item',
+  cartId: '690c6a9e0b9a26ac7ccb7aa8',
+  userId: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 15:00:20'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 15:00:21'
+}
+{
+  message: 'token checked',
+  visitedURL: '/decre-quantity',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 15:00:21'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 15:00:24'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 15:00:35'
+}
+{
+  message: 'token checked',
+  visitedURL: '/custom-pizza',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 15:00:37'
+}
+{
+  message: 'user added cart item',
+  pizzaId: '690208cf8ab92b674672c8ce',
+  userId: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 15:00:37'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 15:00:40'
+}
+{
+  message: 'Please log in to continue',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-06 16:10:05'
+}
+{
+  message: 'Please log in to continue',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-06 16:10:08'
+}
+{
+  message: 'incorrect password',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-06 16:10:15'
+}
+{
+  userId: new ObjectId('6901f18388f654c6ab9c7a27'),
+  username: 'Rohan',
+  message: 'logged in',
+  level: 'info',
+  timestamp: '2025-11-06 16:10:28'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 16:10:28'
+}
+{
+  message: 'token checked',
+  visitedURL: '/custom-pizza',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 16:10:46'
+}
+{
+  message: 'user added cart item',
+  pizzaId: '690208cf8ab92b674672c8cf',
+  userId: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 16:10:46'
+}
+{
+  message: 'token checked',
+  visitedURL: '/custom-pizza',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 16:10:47'
+}
+{
+  message: 'user added cart item',
+  pizzaId: '690208cf8ab92b674672c8d1',
+  userId: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 16:10:47'
+}
+{
+  message: 'token checked',
+  visitedURL: '/custom-pizza',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 16:10:54'
+}
+{
+  message: 'user build their pizza',
+  userId: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 16:10:54'
+}
+{
+  message: 'token checked',
+  visitedURL: '/custom-pizza',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 16:10:55'
+}
+{
+  message: 'user build their pizza',
+  userId: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 16:10:55'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 16:10:57'
+}
+{
+  message: 'token checked',
+  visitedURL: '/delete-cart',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 16:10:58'
+}
+{
+  message: 'remove the cart item',
+  cartId: '690c6aa50b9a26ac7ccb7aab',
+  userId: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 16:10:58'
+}
+{
+  message: 'token checked',
+  visitedURL: '/delete-cart',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 16:10:58'
+}
+{
+  message: 'remove the cart item',
+  cartId: '690c6abd0b9a26ac7ccb7ac2',
+  userId: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 16:10:58'
+}
+{
+  message: 'token checked',
+  visitedURL: '/delete-cart',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 16:11:01'
+}
+{
+  message: 'remove the cart item',
+  cartId: '690c7b2eeeefda107d9da2af',
+  userId: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 16:11:01'
+}
+{
+  message: 'token checked',
+  visitedURL: '/delete-cart',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 16:11:01'
+}
+{
+  message: 'remove the cart item',
+  cartId: '690c7b2feeefda107d9da2b1',
+  userId: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 16:11:01'
+}
+{
+  message: 'token checked',
+  visitedURL: '/delete-cart',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 16:11:03'
+}
+{
+  message: 'remove the cart item',
+  cartId: '690c7b36eeefda107d9da2b4',
+  userId: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 16:11:03'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 16:12:38'
+}
+{
+  message: 'token checked',
+  visitedURL: '/custom-pizza',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 16:12:41'
+}
+{
+  message: 'user added cart item',
+  pizzaId: '690208cf8ab92b674672c8ce',
+  userId: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 16:12:41'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 16:12:43'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 16:12:45'
+}
+{
+  message: 'token checked',
+  visitedURL: '/delete-cart',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 16:12:46'
+}
+{
+  message: 'remove the cart item',
+  cartId: '690c7b37eeefda107d9da2b6',
+  userId: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 16:12:46'
+}
+{
+  message: 'token checked',
+  visitedURL: '/delete-cart',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 16:12:47'
+}
+{
+  message: 'remove the cart item',
+  cartId: '690c7ba1eeefda107d9da2c1',
+  userId: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 16:12:47'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 16:17:15'
+}
+{
+  userId: new ObjectId('6901f18388f654c6ab9c7a27'),
+  username: 'Rohan',
+  message: 'logged in',
+  level: 'info',
+  timestamp: '2025-11-06 16:20:37'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 16:20:37'
+}
+{
+  message: 'token checked',
+  visitedURL: '/custom-pizza',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 16:20:46'
+}
+{
+  message: 'user added cart item',
+  pizzaId: '690208cf8ab92b674672c8ce',
+  userId: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 16:20:46'
+}
+{
+  message: 'token checked',
+  visitedURL: '/custom-pizza',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 16:20:47'
+}
+{
+  message: 'user added cart item',
+  pizzaId: '690208cf8ab92b674672c8cf',
+  userId: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 16:20:47'
+}
+{
+  message: 'token checked',
+  visitedURL: '/custom-pizza',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 16:20:53'
+}
+{
+  message: 'user build their pizza',
+  userId: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 16:20:53'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 16:20:56'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 16:20:58'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 16:20:58'
+}
+{
+  message: 'token checked',
+  visitedURL: '/decre-quantity',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 16:20:59'
+}
+{
+  message: 'token checked',
+  visitedURL: '/decre-quantity',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 16:20:59'
+}
+{
+  message: 'Please log in to continue',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-06 16:21:05'
+}
+{
+  message: 'Please log in to continue',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-06 16:21:13'
+}
+{
+  userId: new ObjectId('6901f18388f654c6ab9c7a27'),
+  username: 'Rohan',
+  message: 'logged in',
+  level: 'info',
+  timestamp: '2025-11-06 16:21:37'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 16:21:37'
+}
+{
+  message: 'token checked',
+  visitedURL: '/custom-pizza',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 17:26:07'
+}
+{
+  message: 'user added cart item',
+  pizzaId: '690208cf8ab92b674672c8d0',
+  userId: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 17:26:07'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 17:28:14'
+}
+{
+  message: 'token checked',
+  visitedURL: '/delete-cart',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 17:28:15'
+}
+{
+  message: 'remove the cart item',
+  cartId: '690c7d86825a6efc6b64732a',
+  userId: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 17:28:15'
+}
+{
+  message: 'token checked',
+  visitedURL: '/delete-cart',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 17:28:15'
+}
+{
+  message: 'remove the cart item',
+  cartId: '690c7d87825a6efc6b64732c',
+  userId: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 17:28:15'
+}
+{
+  message: 'token checked',
+  visitedURL: '/custom-pizza',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 18:42:39'
+}
+{
+  message: 'user added cart item',
+  pizzaId: '690208cf8ab92b674672c8ce',
+  userId: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 18:42:39'
+}
+{
+  message: 'token checked',
+  visitedURL: '/custom-pizza',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 18:42:40'
+}
+{
+  message: 'user added cart item',
+  pizzaId: '690208cf8ab92b674672c8cf',
+  userId: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 18:42:40'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 18:43:20'
+}
+{
+  message: 'token checked',
+  visitedURL: '/delete-cart',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 18:43:21'
+}
+{
+  message: 'remove the cart item',
+  cartId: '690c7d8d825a6efc6b64732f',
+  userId: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 18:43:21'
+}
+{
+  message: 'token checked',
+  visitedURL: '/delete-cart',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 18:43:22'
+}
+{
+  message: 'remove the cart item',
+  cartId: '690c8cd7825a6efc6b647346',
+  userId: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 18:43:22'
+}
+{
+  message: 'token checked',
+  visitedURL: '/delete-cart',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 18:43:23'
+}
+{
+  message: 'remove the cart item',
+  cartId: '690c9ec7825a6efc6b64734f',
+  userId: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 18:43:23'
+}
+{
+  message: 'token checked',
+  visitedURL: '/delete-cart',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 18:48:22'
+}
+{
+  message: 'remove the cart item',
+  cartId: '690c9ec8825a6efc6b647351',
+  userId: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-06 18:48:22'
+}
+{
+  message: 'Please log in to continue',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-06 18:48:32'
+}
+{
+  message: 'Please log in to continue',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-06 18:48:39'
+}
+{
+  message: 'Please log in to continue',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-06 18:50:42'
+}
+{
+  message: 'Please log in to continue',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-06 18:50:46'
+}
+{
+  message: 'Please log in to continue',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-06 18:50:51'
+}
+{
+  message: 'Please log in to continue',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-06 18:56:59'
+}
+{
+  message: 'Please log in to continue',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-06 19:10:12'
+}
+{
+  message: 'Please log in to continue',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-07 10:56:54'
+}
+{
+  userId: new ObjectId('6901f18388f654c6ab9c7a27'),
+  username: 'Rohan',
+  message: 'logged in',
+  level: 'info',
+  timestamp: '2025-11-07 11:17:54'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 11:17:54'
+}
+{
+  message: 'token checked',
+  visitedURL: '/custom-pizza',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 11:17:58'
+}
+{
+  message: 'user added cart item',
+  pizzaId: '690208cf8ab92b674672c8ce',
+  userId: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 11:17:58'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 11:17:59'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 11:18:17'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 11:18:29'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 11:18:29'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 11:18:41'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 11:18:59'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 11:19:01'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '6901f18388f654c6ab9c7a27',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 11:19:01'
+}
+{
+  message: 'No refresh token found',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-07 12:33:20'
+}
+{
+  message: 'No refresh token found',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-07 12:33:20'
+}
+{
+  message: 'No refresh token found',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-07 12:33:57'
+}
+{
+  message: 'No refresh token found',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-07 12:33:59'
+}
+{
+  userId: new ObjectId('690d99f1f58490989b7ae9ce'),
+  username: 'Rohan',
+  message: 'logged in',
+  level: 'info',
+  timestamp: '2025-11-07 12:34:24'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 12:34:24'
+}
+{
+  message: 'token checked',
+  visitedURL: '/custom-pizza',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 12:34:27'
+}
+{
+  message: 'user added cart item',
+  pizzaId: '690208cf8ab92b674672c8ce',
+  userId: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 12:34:27'
+}
+{
+  message: 'token checked',
+  visitedURL: '/custom-pizza',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 12:34:29'
+}
+{
+  message: 'user added cart item',
+  pizzaId: '690208cf8ab92b674672c8cf',
+  userId: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 12:34:29'
+}
+{
+  message: 'token checked',
+  visitedURL: '/custom-pizza',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 12:34:42'
+}
+{
+  message: 'user build their pizza',
+  userId: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 12:34:42'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 12:34:44'
+}
+{
+  message: 'token checked',
+  visitedURL: '/delete-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 12:34:45'
+}
+{
+  message: 'remove the cart item',
+  cartId: '690d99fbf58490989b7ae9d5',
+  userId: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 12:34:45'
+}
+{
+  message: 'token checked',
+  visitedURL: '/delete-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 12:34:46'
+}
+{
+  message: 'remove the cart item',
+  cartId: '690d99fdf58490989b7ae9d7',
+  userId: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 12:34:46'
+}
+{
+  message: 'token checked',
+  visitedURL: '/place-order',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 12:39:20'
+}
+{
+  message: 'Cart is not defined',
+  userId: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'error',
+  timestamp: '2025-11-07 12:39:20'
+}
+{
+  message: 'token checked',
+  visitedURL: '/place-order',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 12:39:52'
+}
+{
+  message: 'Cart is not defined',
+  userId: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'error',
+  timestamp: '2025-11-07 12:39:52'
+}
+{
+  message: 'token checked',
+  visitedURL: '/place-order',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 12:39:56'
+}
+{
+  message: 'Cart is not defined',
+  userId: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'error',
+  timestamp: '2025-11-07 12:39:56'
+}
+{
+  message: 'token checked',
+  visitedURL: '/place-order',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 12:40:17'
+}
+{
+  message: 'Cart is not defined',
+  userId: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'error',
+  timestamp: '2025-11-07 12:40:17'
+}
+{
+  message: 'token checked',
+  visitedURL: '/place-order',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 12:40:36'
+}
+{
+  message: 'Cart is not defined',
+  userId: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'error',
+  timestamp: '2025-11-07 12:40:36'
+}
+{
+  message: 'token checked',
+  visitedURL: '/place-order',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 12:40:50'
+}
+{
+  message: 'Cart is not defined',
+  userId: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'error',
+  timestamp: '2025-11-07 12:40:50'
+}
+{
+  message: 'token checked',
+  visitedURL: '/place-order',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 12:40:52'
+}
+{
+  message: 'Cart is not defined',
+  userId: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'error',
+  timestamp: '2025-11-07 12:40:52'
+}
+{
+  message: 'token checked',
+  visitedURL: '/place-order',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 12:41:32'
+}
+{
+  message: 'Cart is not defined',
+  userId: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'error',
+  timestamp: '2025-11-07 12:41:32'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 12:44:32'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 12:44:32'
+}
+{
+  userId: new ObjectId('690d9c6d4ed1c71878fe7af7'),
+  username: 'Arpita',
+  message: 'logged in',
+  level: 'info',
+  timestamp: '2025-11-07 12:44:59'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-07 12:44:59'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-07 12:45:02'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-07 12:45:06'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-07 12:45:06'
+}
+{
+  message: 'token checked',
+  visitedURL: '/custom-pizza',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-07 12:45:12'
+}
+{
+  message: 'user added cart item',
+  pizzaId: '690208cf8ab92b674672c8ce',
+  userId: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-07 12:45:12'
+}
+{
+  message: 'token checked',
+  visitedURL: '/custom-pizza',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-07 12:45:13'
+}
+{
+  message: 'user added cart item',
+  pizzaId: '690208cf8ab92b674672c8cf',
+  userId: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-07 12:45:13'
+}
+{
+  message: 'token checked',
+  visitedURL: '/custom-pizza',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-07 12:45:14'
+}
+{
+  message: 'user added cart item',
+  pizzaId: '690208cf8ab92b674672c8d1',
+  userId: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-07 12:45:14'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-07 12:45:17'
+}
+{
+  userId: new ObjectId('690d99f1f58490989b7ae9ce'),
+  username: 'Rohan',
+  message: 'logged in',
+  level: 'info',
+  timestamp: '2025-11-07 12:45:25'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 12:45:26'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 12:45:33'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 12:45:35'
+}
+{
+  message: 'token checked',
+  visitedURL: '/place-order',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 12:46:45'
+}
+{
+  message: 'Order is not defined',
+  userId: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'error',
+  timestamp: '2025-11-07 12:46:45'
+}
+{
+  message: 'token checked',
+  visitedURL: '/place-order',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 12:47:46'
+}
+{
+  message: 'Order validation failed: Phone: Path `Phone` is required., deliveryAddress: Path `deliveryAddress` is required.',
+  userId: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'error',
+  timestamp: '2025-11-07 12:47:47'
+}
+{
+  message: 'token checked',
+  visitedURL: '/place-order',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 12:47:49'
+}
+{
+  message: 'Order validation failed: Phone: Path `Phone` is required., deliveryAddress: Path `deliveryAddress` is required.',
+  userId: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'error',
+  timestamp: '2025-11-07 12:47:49'
+}
+{
+  message: 'token checked',
+  visitedURL: '/place-order',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 12:48:04'
+}
+{
+  message: 'Order validation failed: Phone: Path `Phone` is required., deliveryAddress: Path `deliveryAddress` is required.',
+  userId: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'error',
+  timestamp: '2025-11-07 12:48:05'
+}
+{
+  message: 'token checked',
+  visitedURL: '/place-order',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 12:48:35'
+}
+{
+  message: 'Order validation failed: Phone: Path `Phone` is required., deliveryAddress: Path `deliveryAddress` is required.',
+  userId: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'error',
+  timestamp: '2025-11-07 12:48:35'
+}
+{
+  message: 'token checked',
+  visitedURL: '/place-order',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 12:48:44'
+}
+{
+  message: 'Order validation failed: Phone: Path `Phone` is required., deliveryAddress: Path `deliveryAddress` is required.',
+  userId: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'error',
+  timestamp: '2025-11-07 12:48:44'
+}
+{
+  message: 'token checked',
+  visitedURL: '/place-order',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 12:48:48'
+}
+{
+  message: 'Order validation failed: Phone: Path `Phone` is required., deliveryAddress: Path `deliveryAddress` is required.',
+  userId: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'error',
+  timestamp: '2025-11-07 12:48:48'
+}
+{
+  message: 'token checked',
+  visitedURL: '/place-order',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 12:48:51'
+}
+{
+  message: 'Order validation failed: Phone: Path `Phone` is required., deliveryAddress: Path `deliveryAddress` is required.',
+  userId: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'error',
+  timestamp: '2025-11-07 12:48:51'
+}
+{
+  message: 'token checked',
+  visitedURL: '/place-order',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 12:49:15'
+}
+{
+  message: 'Order validation failed: Phone: Path `Phone` is required., deliveryAddress: Path `deliveryAddress` is required.',
+  userId: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'error',
+  timestamp: '2025-11-07 12:49:15'
+}
+{
+  message: 'token checked',
+  visitedURL: '/place-order',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 12:50:42'
+}
+{
+  message: 'Order validation failed: Phone: Path `Phone` is required., deliveryAddress: Path `deliveryAddress` is required.',
+  userId: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'error',
+  timestamp: '2025-11-07 12:50:42'
+}
+{
+  message: 'token checked',
+  visitedURL: '/place-order',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 12:50:44'
+}
+{
+  message: 'Order validation failed: Phone: Path `Phone` is required., deliveryAddress: Path `deliveryAddress` is required.',
+  userId: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'error',
+  timestamp: '2025-11-07 12:50:44'
+}
+{
+  message: 'token checked',
+  visitedURL: '/place-order',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 12:52:27'
+}
+{
+  message: 'Order validation failed: Phone: Path `Phone` is required., deliveryAddress: Path `deliveryAddress` is required.',
+  userId: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'error',
+  timestamp: '2025-11-07 12:52:27'
+}
+{
+  message: 'token checked',
+  visitedURL: '/place-order',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 12:52:37'
+}
+{
+  message: 'token checked',
+  visitedURL: '/place-order',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 12:57:04'
+}
+{
+  message: 'Order confirmed and email sent!',
+  userId: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 12:57:07'
+}
+{
+  userId: new ObjectId('690d9c6d4ed1c71878fe7af7'),
+  username: 'Arpita',
+  message: 'logged in',
+  level: 'info',
+  timestamp: '2025-11-07 13:08:10'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-07 13:08:10'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-07 13:08:13'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-07 13:08:17'
+}
+{
+  message: 'token checked',
+  visitedURL: '/place-order',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-07 13:10:10'
+}
+{
+  message: 'Order confirmed and email sent!',
+  userId: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-07 13:10:15'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-07 13:10:17'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-07 13:10:17'
+}
+{
+  message: 'token checked',
+  visitedURL: '/place-order',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-07 13:10:19'
+}
+{
+  message: 'Order confirmed and email sent!',
+  userId: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-07 13:10:21'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-07 13:10:25'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-07 13:10:26'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-07 13:10:27'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-07 13:10:27'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-07 13:10:27'
+}
+{
+  message: 'token checked',
+  visitedURL: '/place-order',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-07 13:10:28'
+}
+{
+  message: 'Order confirmed and email sent!',
+  userId: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-07 13:10:31'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-07 13:10:34'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-07 13:10:34'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-07 13:10:34'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-07 13:10:34'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-07 13:10:35'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-07 13:10:35'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-07 13:10:35'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-07 13:10:36'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-07 13:10:36'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-07 13:10:36'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-07 13:10:36'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-07 13:10:36'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-07 13:10:38'
+}
+{
+  message: 'token checked',
+  visitedURL: '/place-order',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-07 13:10:40'
+}
+{
+  message: 'Order confirmed and email sent!',
+  userId: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-07 13:10:43'
+}
+{
+  message: 'Please log in to continue',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-07 16:50:12'
+}
+{
+  message: 'Please log in to continue',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-07 16:50:19'
+}
+{
+  message: 'Please log in to continue',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-07 16:50:21'
+}
+{
+  message: 'Please log in to continue',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-07 16:50:22'
+}
+{
+  userId: new ObjectId('690d99f1f58490989b7ae9ce'),
+  username: 'Rohan',
+  message: 'logged in',
+  level: 'info',
+  timestamp: '2025-11-07 16:50:31'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 16:50:32'
+}
+{
+  message: 'Please log in to continue',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-07 16:50:37'
+}
+{
+  message: 'Please log in to continue',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-07 16:50:40'
+}
+{
+  userId: new ObjectId('690d99f1f58490989b7ae9ce'),
+  username: 'Rohan',
+  message: 'logged in',
+  level: 'info',
+  timestamp: '2025-11-07 16:50:50'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 16:50:50'
+}
+{
+  message: 'token checked',
+  visitedURL: '/custom-pizza',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 16:50:53'
+}
+{
+  message: 'user added cart item',
+  pizzaId: '690208cf8ab92b674672c8ce',
+  userId: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 16:50:53'
+}
+{
+  message: 'token checked',
+  visitedURL: '/custom-pizza',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 16:51:05'
+}
+{
+  message: 'user build their pizza',
+  userId: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 16:51:05'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 16:51:08'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 16:51:10'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 16:51:11'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 16:51:11'
+}
+{
+  message: 'token checked',
+  visitedURL: '/decre-quantity',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 16:51:12'
+}
+{
+  message: 'token checked',
+  visitedURL: '/decre-quantity',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 16:51:12'
+}
+{
+  message: 'token checked',
+  visitedURL: '/delete-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 16:51:14'
+}
+{
+  message: 'remove the cart item',
+  cartId: '690d9a0af58490989b7ae9da',
+  userId: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 16:51:14'
+}
+{
+  message: 'token checked',
+  visitedURL: '/place-order',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 16:51:24'
+}
+{
+  message: 'Order confirmed and email sent!',
+  userId: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 16:51:28'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 16:53:36'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 17:01:10'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 17:01:10'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 17:03:54'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 17:03:56'
+}
+{
+  message: 'token checked',
+  visitedURL: '/place-order',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 17:03:59'
+}
+{
+  message: 'Order validation failed: Phone: Path `Phone` is required., deliveryAddress: Path `deliveryAddress` is required.',
+  userId: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'error',
+  timestamp: '2025-11-07 17:03:59'
+}
+{
+  message: 'token checked',
+  visitedURL: '/place-order',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 17:04:02'
+}
+{
+  message: 'Order validation failed: Phone: Path `Phone` is required., deliveryAddress: Path `deliveryAddress` is required.',
+  userId: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'error',
+  timestamp: '2025-11-07 17:04:02'
+}
+{
+  message: 'token checked',
+  visitedURL: '/place-order',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 17:04:13'
+}
+{
+  message: 'Order confirmed and email sent!',
+  userId: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 17:04:18'
+}
+{
+  message: 'token checked',
+  visitedURL: '/place-order',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 17:05:18'
+}
+{
+  message: 'Order confirmed and email sent!',
+  userId: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 17:05:21'
+}
+{
+  message: 'token checked',
+  visitedURL: '/place-order',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 17:05:35'
+}
+{
+  message: 'Order confirmed and email sent!',
+  userId: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 17:05:39'
+}
+{
+  message: 'token checked',
+  visitedURL: '/place-order',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 17:06:48'
+}
+{
+  message: 'Order confirmed and email sent!',
+  userId: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 17:06:52'
+}
+{
+  message: 'token checked',
+  visitedURL: '/place-order',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 17:09:05'
+}
+{
+  message: 'token checked',
+  visitedURL: '/place-order',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 17:09:08'
+}
+{
+  message: 'Order confirmed and email sent!',
+  userId: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 17:09:09'
+}
+{
+  message: 'Order confirmed and email sent!',
+  userId: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 17:09:12'
+}
+{
+  message: 'token checked',
+  visitedURL: '/place-order',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 17:09:21'
+}
+{
+  message: 'Order confirmed and email sent!',
+  userId: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 17:09:25'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 17:10:25'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 17:10:25'
+}
+{
+  message: 'token checked',
+  visitedURL: '/place-order',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 17:10:30'
+}
+{
+  message: 'Order confirmed and email sent!',
+  userId: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 17:10:33'
+}
+{
+  message: 'token checked',
+  visitedURL: '/place-order',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 17:10:47'
+}
+{
+  message: 'Order confirmed and email sent!',
+  userId: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 17:10:52'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 17:21:30'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 17:21:30'
+}
+{
+  message: 'token checked',
+  visitedURL: '/place-order',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 17:21:38'
+}
+{
+  message: 'Order confirmed and email sent!',
+  userId: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 17:21:41'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 17:23:06'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 17:23:06'
+}
+{
+  message: 'token checked',
+  visitedURL: '/place-order',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 17:28:21'
+}
+{
+  message: 'Order confirmed and email sent!',
+  userId: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 17:28:26'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 17:29:57'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 17:29:58'
+}
+{
+  userId: new ObjectId('690d99f1f58490989b7ae9ce'),
+  username: 'Rohan',
+  message: 'logged in',
+  level: 'info',
+  timestamp: '2025-11-07 17:30:05'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 17:30:05'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 17:30:08'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 17:30:28'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 17:30:30'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 17:30:30'
+}
+{
+  message: 'token checked',
+  visitedURL: '/place-order',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 17:30:32'
+}
+{
+  message: 'Order confirmed and email sent!',
+  userId: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 17:30:35'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 18:32:51'
+}
+{
+  message: 'token checked',
+  visitedURL: '/place-order',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 18:33:33'
+}
+{
+  message: 'Order confirmed and email sent!',
+  userId: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-07 18:33:37'
+}
+{
+  message: 'Please log in to continue',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-08 11:25:16'
+}
+{
+  message: 'Please log in to continue',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-08 11:26:35'
+}
+{
+  message: 'Please log in to continue',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-08 11:26:38'
+}
+{
+  message: 'Please log in to continue',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-08 11:26:43'
+}
+{
+  message: 'Please log in to continue',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-08 11:27:31'
+}
+{
+  message: 'Please log in to continue',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-08 11:27:34'
+}
+{
+  message: 'Please log in to continue',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-08 11:27:38'
+}
+{
+  message: 'Please log in to continue',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-08 11:27:43'
+}
+{
+  userId: new ObjectId('690d99f1f58490989b7ae9ce'),
+  username: 'Rohan',
+  message: 'logged in',
+  level: 'info',
+  timestamp: '2025-11-08 11:28:31'
+}
+{
+  message: 'E11000 duplicate key error collection: pizzariadb.refreshes index: email_1 dup key: { email: "rohanambig599@gmail.com" }',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-08 11:28:31'
+}
+{
+  userId: new ObjectId('690d99f1f58490989b7ae9ce'),
+  username: 'Rohan',
+  message: 'logged in',
+  level: 'info',
+  timestamp: '2025-11-08 11:30:16'
+}
+{
+  message: 'E11000 duplicate key error collection: pizzariadb.refreshes index: email_1 dup key: { email: "rohanambig599@gmail.com" }',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-08 11:30:16'
+}
+{
+  userId: new ObjectId('690d9c6d4ed1c71878fe7af7'),
+  username: 'Arpita',
+  message: 'logged in',
+  level: 'info',
+  timestamp: '2025-11-08 11:30:26'
+}
+{
+  message: 'E11000 duplicate key error collection: pizzariadb.refreshes index: email_1 dup key: { email: "arpitaambig03@gmail.com" }',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-08 11:30:26'
+}
+{
+  userId: new ObjectId('690d9c6d4ed1c71878fe7af7'),
+  username: 'Arpita',
+  message: 'logged in',
+  level: 'info',
+  timestamp: '2025-11-08 11:31:26'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:31:26'
+}
+{
+  userId: new ObjectId('690d9c6d4ed1c71878fe7af7'),
+  username: 'Arpita',
+  message: 'logged in',
+  level: 'info',
+  timestamp: '2025-11-08 11:31:36'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:31:37'
+}
+{
+  userId: new ObjectId('690d99f1f58490989b7ae9ce'),
+  username: 'Rohan',
+  message: 'logged in',
+  level: 'info',
+  timestamp: '2025-11-08 11:31:50'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:31:50'
+}
+{
+  userId: new ObjectId('690d99f1f58490989b7ae9ce'),
+  username: 'Rohan',
+  message: 'logged in',
+  level: 'info',
+  timestamp: '2025-11-08 11:32:03'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:32:03'
+}
+{
+  message: 'incorrect password',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-08 11:32:19'
+}
+{
+  userId: new ObjectId('690d9c6d4ed1c71878fe7af7'),
+  username: 'Arpita',
+  message: 'logged in',
+  level: 'info',
+  timestamp: '2025-11-08 11:32:25'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:32:26'
+}
+{
+  message: 'token checked',
+  visitedURL: '/custom-pizza',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:32:35'
+}
+{
+  message: 'user added cart item',
+  pizzaId: '690208cf8ab92b674672c8d0',
+  userId: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:32:35'
+}
+{
+  message: 'token checked',
+  visitedURL: '/custom-pizza',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:32:39'
+}
+{
+  message: 'user added cart item',
+  pizzaId: '690208cf8ab92b674672c8d3',
+  userId: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:32:39'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:32:49'
+}
+{
+  message: 'token checked',
+  visitedURL: '/decre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:32:54'
+}
+{
+  message: 'token checked',
+  visitedURL: '/decre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:32:54'
+}
+{
+  message: 'token checked',
+  visitedURL: '/decre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:32:54'
+}
+{
+  message: 'token checked',
+  visitedURL: '/decre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:32:54'
+}
+{
+  message: 'token checked',
+  visitedURL: '/decre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:32:55'
+}
+{
+  message: 'token checked',
+  visitedURL: '/decre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:32:55'
+}
+{
+  message: 'token checked',
+  visitedURL: '/decre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:32:55'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:32:56'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:32:56'
+}
+{
+  message: 'token checked',
+  visitedURL: '/decre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:32:57'
+}
+{
+  message: 'token checked',
+  visitedURL: '/decre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:32:57'
+}
+{
+  message: 'token checked',
+  visitedURL: '/decre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:32:57'
+}
+{
+  message: 'token checked',
+  visitedURL: '/decre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:32:58'
+}
+{
+  message: 'token checked',
+  visitedURL: '/decre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:32:59'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:33:00'
+}
+{
+  message: 'Too many requests, please try again later.',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-08 11:33:02'
+}
+{
+  message: 'Too many requests, please try again later.',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-08 11:33:03'
+}
+{
+  message: 'Too many requests, please try again later.',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-08 11:33:04'
+}
+{
+  message: 'Too many requests, please try again later.',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-08 11:33:05'
+}
+{
+  message: 'Too many requests, please try again later.',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-08 11:33:05'
+}
+{
+  message: 'Too many requests, please try again later.',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-08 11:33:07'
+}
+{
+  message: 'Too many requests, please try again later.',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-08 11:33:08'
+}
+{
+  message: 'Too many requests, please try again later.',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-08 11:33:08'
+}
+{
+  message: 'Too many requests, please try again later.',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-08 11:34:50'
+}
+{
+  message: 'Too many requests, please try again later.',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-08 11:34:51'
+}
+{
+  message: 'Too many requests, please try again later.',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-08 11:34:52'
+}
+{
+  message: 'Too many requests, please try again later.',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-08 11:34:52'
+}
+{
+  message: 'Too many requests, please try again later.',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-08 11:34:52'
+}
+{
+  message: 'Too many requests, please try again later.',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-08 11:34:56'
+}
+{
+  message: 'Too many requests, please try again later.',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-08 11:34:56'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:35:25'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:35:25'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:35:25'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:35:26'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:35:26'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:35:26'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:35:26'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:35:26'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:35:26'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:35:27'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:35:27'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:35:27'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:35:27'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:35:27'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:35:27'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:35:28'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:35:28'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:35:28'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:35:28'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:35:28'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:35:29'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:35:29'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:35:29'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:35:29'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:35:29'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:35:29'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:35:30'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:35:30'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:35:30'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:35:30'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:35:30'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:35:31'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:35:31'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:35:31'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:35:31'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:35:31'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:35:32'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:35:32'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:35:32'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:35:32'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:35:32'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:35:32'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:35:33'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:35:33'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:35:33'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:35:33'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:35:33'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:35:34'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:35:34'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:35:34'
+}
+{
+  message: 'Too many requests, please try again later.',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-08 11:35:34'
+}
+{
+  message: 'Too many requests, please try again later.',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-08 11:35:34'
+}
+{
+  message: 'Too many requests, please try again later.',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-08 11:35:35'
+}
+{
+  message: 'Too many requests, please try again later.',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-08 11:35:35'
+}
+{
+  message: 'Too many requests, please try again later.',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-08 11:35:35'
+}
+{
+  message: 'Too many requests, please try again later.',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-08 11:35:37'
+}
+{
+  message: 'Too many requests, please try again later.',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-08 11:35:37'
+}
+{
+  message: 'Too many requests, please try again later.',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-08 11:35:40'
+}
+{
+  message: 'Too many requests, please try again later.',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-08 11:35:40'
+}
+{
+  message: 'Too many requests, please try again later.',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-08 11:35:40'
+}
+{
+  message: 'Too many requests, please try again later.',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-08 11:36:28'
+}
+{
+  message: 'Too many requests, please try again later.',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-08 11:36:28'
+}
+{
+  message: 'Too many requests, please try again later.',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-08 11:36:31'
+}
+{
+  message: 'Too many requests, please try again later.',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-08 11:36:31'
+}
+{
+  message: 'Too many requests, please try again later.',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-08 11:36:34'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:36:58'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:37:00'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:37:13'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:37:13'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:37:14'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:37:14'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:37:15'
+}
+{
+  message: 'Too many requests, please try again later.',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-08 11:37:15'
+}
+{
+  message: 'Too many requests, please try again later.',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-08 11:37:18'
+}
+{
+  message: 'Too many requests, please try again later.',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-08 11:37:20'
+}
+{
+  message: 'Too many requests, please try again later.',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-08 11:37:24'
+}
+{
+  message: 'Too many requests, please try again later.',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-08 11:37:27'
+}
+{
+  message: 'Too many requests, please try again later.',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-08 11:37:32'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:37:51'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 11:37:51'
+}
+{
+  userId: new ObjectId('690d99f1f58490989b7ae9ce'),
+  username: 'Rohan',
+  message: 'logged in',
+  level: 'info',
+  timestamp: '2025-11-08 11:39:18'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:39:18'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:40:07'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:40:08'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:40:08'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:40:09'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:40:09'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:40:09'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:40:10'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:40:10'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:40:11'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:40:11'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:40:11'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:40:11'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:40:12'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:40:12'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:40:12'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:40:12'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:40:12'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:40:12'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:40:22'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:40:22'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:40:22'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:40:23'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:40:23'
+}
+{
+  message: 'Too many requests, please try again later.',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-08 11:40:23'
+}
+{
+  message: 'Too many requests, please try again later.',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-08 11:40:25'
+}
+{
+  message: 'Too many requests, please try again later.',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-08 11:40:41'
+}
+{
+  message: 'Too many requests, please try again later.',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-08 11:40:51'
+}
+{
+  message: 'Too many requests, please try again later.',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-08 11:40:53'
+}
+{
+  message: 'Too many requests, please try again later.',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-08 11:40:58'
+}
+{
+  message: 'Too many requests, please try again later.',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-08 11:41:04'
+}
+{
+  message: 'Too many requests, please try again later.',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-08 11:41:07'
+}
+{
+  message: 'Too many requests, please try again later.',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-08 11:41:11'
+}
+{
+  message: 'Too many requests, please try again later.',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-08 11:41:13'
+}
+{
+  message: 'Too many requests, please try again later.',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-08 11:41:20'
+}
+{
+  message: 'Too many requests, please try again later.',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-08 11:41:35'
+}
+{
+  message: 'Too many requests, please try again later.',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-08 11:41:42'
+}
+{
+  message: "Cannot read properties of undefined (reading '_id')",
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-08 11:42:19'
+}
+{
+  userId: new ObjectId('690d99f1f58490989b7ae9ce'),
+  username: 'Rohan',
+  message: 'logged in',
+  level: 'info',
+  timestamp: '2025-11-08 11:42:31'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:42:32'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:42:33'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:42:34'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:42:34'
+}
+{
+  message: 'Too many requests, please try again later.',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-08 11:42:34'
+}
+{
+  message: 'Too many requests, please try again later.',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-08 11:42:36'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:43:08'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:43:09'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:43:09'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:43:09'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:43:09'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:43:09'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:43:10'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:43:10'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:43:10'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:43:10'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:43:10'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:43:11'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:43:11'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:43:11'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:43:11'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:43:11'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:43:12'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:43:12'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:44:37'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:44:37'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:44:37'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:44:37'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:44:37'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:44:39'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:44:39'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:44:40'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:44:40'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:44:40'
+}
+{
+  message: 'token checked',
+  visitedURL: '/decre-quantity',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:44:40'
+}
+{
+  message: 'token checked',
+  visitedURL: '/decre-quantity',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:44:41'
+}
+{
+  message: 'token checked',
+  visitedURL: '/decre-quantity',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:44:41'
+}
+{
+  message: 'token checked',
+  visitedURL: '/delete-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:44:41'
+}
+{
+  message: 'remove the cart item',
+  cartId: '690dd615124eaeba960914a6',
+  userId: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:44:41'
+}
+{
+  message: 'token checked',
+  visitedURL: '/delete-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:44:42'
+}
+{
+  message: 'remove the cart item',
+  cartId: '690dd621124eaeba960914a9',
+  userId: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:44:42'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:44:45'
+}
+{
+  message: 'token checked',
+  visitedURL: '/custom-pizza',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:44:47'
+}
+{
+  message: 'user added cart item',
+  pizzaId: '690208cf8ab92b674672c8ce',
+  userId: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:44:47'
+}
+{
+  message: 'token checked',
+  visitedURL: '/custom-pizza',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:44:48'
+}
+{
+  message: 'user added cart item',
+  pizzaId: '690208cf8ab92b674672c8cf',
+  userId: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:44:48'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:44:50'
+}
+{
+  message: 'token checked',
+  visitedURL: '/delete-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:44:52'
+}
+{
+  message: 'remove the cart item',
+  cartId: '690edfd747f75b5218a83164',
+  userId: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:44:52'
+}
+{
+  message: 'token checked',
+  visitedURL: '/delete-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:44:53'
+}
+{
+  message: 'remove the cart item',
+  cartId: '690edfd847f75b5218a83166',
+  userId: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:44:53'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:45:44'
+}
+{
+  message: 'token checked',
+  visitedURL: '/custom-pizza',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:45:46'
+}
+{
+  message: 'user added cart item',
+  pizzaId: '690208cf8ab92b674672c8ce',
+  userId: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:45:46'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:46:34'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:46:34'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:46:46'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:47:01'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:47:49'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:48:01'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:48:01'
+}
+{
+  message: 'token checked',
+  visitedURL: '/delete-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:48:03'
+}
+{
+  message: 'remove the cart item',
+  cartId: '690ee01247f75b5218a8316e',
+  userId: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:48:03'
+}
+{
+  message: 'token checked',
+  visitedURL: '/custom-pizza',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:48:06'
+}
+{
+  message: 'user added cart item',
+  pizzaId: '690208cf8ab92b674672c8ce',
+  userId: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:48:06'
+}
+{
+  message: 'token checked',
+  visitedURL: '/custom-pizza',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:48:07'
+}
+{
+  message: 'user added cart item',
+  pizzaId: '690208cf8ab92b674672c8cf',
+  userId: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:48:07'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:48:09'
+}
+{
+  message: 'token checked',
+  visitedURL: '/delete-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:48:11'
+}
+{
+  message: 'remove the cart item',
+  cartId: '690ee09e47f75b5218a83183',
+  userId: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:48:11'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:48:13'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:48:14'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:48:14'
+}
+{
+  message: 'token checked',
+  visitedURL: '/decre-quantity',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:48:15'
+}
+{
+  message: 'token checked',
+  visitedURL: '/decre-quantity',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:48:15'
+}
+{
+  message: 'token checked',
+  visitedURL: '/place-order',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:48:28'
+}
+{
+  message: 'Order confirmed and email sent!',
+  userId: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:48:33'
+}
+{
+  message: 'token checked',
+  visitedURL: '/delete-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:51:20'
+}
+{
+  message: 'remove the cart item',
+  cartId: '690ee09f47f75b5218a83185',
+  userId: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:51:20'
+}
+{
+  message: 'Too many requests, please try again later.',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-08 11:56:09'
+}
+{
+  message: 'Too many requests, please try again later.',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-08 11:56:16'
+}
+{
+  message: 'Too many requests, please try again later.',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-08 11:56:21'
+}
+{
+  message: 'Too many requests, please try again later.',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-08 11:56:25'
+}
+{
+  message: 'Too many requests, please try again later.',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-08 11:56:28'
+}
+{
+  message: 'Too many requests, please try again later.',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-08 11:56:44'
+}
+{
+  message: 'Too many requests, please try again later.',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-08 11:56:45'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:57:09'
+}
+{
+  userId: new ObjectId('690d99f1f58490989b7ae9ce'),
+  username: 'Rohan',
+  message: 'logged in',
+  level: 'info',
+  timestamp: '2025-11-08 11:57:17'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:57:18'
+}
+{
+  message: 'token checked',
+  visitedURL: '/custom-pizza',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:57:48'
+}
+{
+  message: 'user added cart item',
+  pizzaId: '690208cf8ab92b674672c8ce',
+  userId: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 11:57:48'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-item',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:00:41'
+}
+{
+  message: 'userID is not defined',
+  userId: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'error',
+  timestamp: '2025-11-08 12:00:41'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-item',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:00:50'
+}
+{
+  message: 'userID is not defined',
+  userId: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'error',
+  timestamp: '2025-11-08 12:00:50'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:00:50'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-item',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:01:57'
+}
+{
+  message: 'userID is not defined',
+  userId: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'error',
+  timestamp: '2025-11-08 12:01:57'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:01:57'
+}
+{
+  userId: new ObjectId('690d99f1f58490989b7ae9ce'),
+  username: 'Rohan',
+  message: 'logged in',
+  level: 'info',
+  timestamp: '2025-11-08 12:02:15'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:02:16'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-item',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:02:18'
+}
+{
+  message: 'userID is not defined',
+  userId: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'error',
+  timestamp: '2025-11-08 12:02:18'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-item',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:03:00'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:03:00'
+}
+{
+  message: 'userID is not defined',
+  userId: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'error',
+  timestamp: '2025-11-08 12:03:00'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-item',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:03:01'
+}
+{
+  message: 'userID is not defined',
+  userId: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'error',
+  timestamp: '2025-11-08 12:03:01'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:03:01'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-item',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:03:24'
+}
+{
+  message: 'userID is not defined',
+  userId: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'error',
+  timestamp: '2025-11-08 12:03:24'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:03:24'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-item',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:03:29'
+}
+{
+  message: 'userID is not defined',
+  userId: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'error',
+  timestamp: '2025-11-08 12:03:29'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:03:29'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:03:49'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-item',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:03:49'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-item',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:03:50'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:03:50'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-item',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:04:19'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:04:19'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-item',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:04:24'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:04:24'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-item',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:04:53'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-item',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:04:53'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:04:53'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-item',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:04:58'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-item',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:05:01'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:05:01'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-item',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:05:16'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-item',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:05:16'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:05:16'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-item',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:05:37'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-item',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:05:40'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-item',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:09:44'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:09:44'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-item',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:10:27'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:10:27'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-item',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:10:53'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-item',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:11:27'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-item',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:11:46'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-item',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:12:10'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-item',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:12:20'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-item',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:12:21'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-item',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:12:27'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-item',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:12:35'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-item',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:13:15'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-item',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:13:29'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-item',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:15:23'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-item',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:15:31'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-item',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:15:33'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-item',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:16:46'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-item',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:17:20'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-item',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:18:27'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:19:01'
+}
+{
+  message: 'token checked',
+  visitedURL: '/custom-pizza',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:19:06'
+}
+{
+  message: 'user added cart item',
+  pizzaId: '690208cf8ab92b674672c8cf',
+  userId: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:19:06'
+}
+{
+  message: 'token checked',
+  visitedURL: '/custom-pizza',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:19:07'
+}
+{
+  message: 'user added cart item',
+  pizzaId: '690208cf8ab92b674672c8d1',
+  userId: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:19:07'
+}
+{
+  message: 'token checked',
+  visitedURL: '/custom-pizza',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:19:08'
+}
+{
+  message: 'user added cart item',
+  pizzaId: '690208cf8ab92b674672c8d0',
+  userId: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:19:08'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:19:10'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:19:12'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:19:12'
+}
+{
+  message: 'token checked',
+  visitedURL: '/place-order',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:19:17'
+}
+{
+  message: 'Order confirmed and email sent!',
+  userId: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:19:20'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-item',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:19:23'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-item',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:21:10'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:21:11'
+}
+{
+  message: 'Cannot populate path `pizzaID` because it is not in your schema. Set the `strictPopulate` option to false to override.',
+  userId: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'error',
+  timestamp: '2025-11-08 12:21:11'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:21:32'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-item',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:21:36'
+}
+{
+  message: 'Cannot populate path `pizzaID` because it is not in your schema. Set the `strictPopulate` option to false to override.',
+  userId: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'error',
+  timestamp: '2025-11-08 12:21:36'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-item',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:22:36'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:22:36'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-item',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:23:43'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-item',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:25:28'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-item',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:26:21'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:26:21'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-item',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:26:30'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:26:30'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-item',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:26:33'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-08 12:26:33'
+}
+{
+  userId: new ObjectId('690d9c6d4ed1c71878fe7af7'),
+  username: 'Arpita',
+  message: 'logged in',
+  level: 'info',
+  timestamp: '2025-11-08 12:26:59'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 12:26:59'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-item',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 12:27:21'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 12:27:37'
+}
+{
+  message: 'token checked',
+  visitedURL: '/decre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 12:27:39'
+}
+{
+  message: 'token checked',
+  visitedURL: '/place-order',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 12:27:45'
+}
+{
+  message: 'Order validation failed: Phone: Cast to Number failed for value "3498732857094`" (type string) at path "Phone"',
+  userId: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'error',
+  timestamp: '2025-11-08 12:27:45'
+}
+{
+  message: 'token checked',
+  visitedURL: '/place-order',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 12:27:48'
+}
+{
+  message: 'Order validation failed: Phone: Cast to Number failed for value "3498732857094`" (type string) at path "Phone"',
+  userId: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'error',
+  timestamp: '2025-11-08 12:27:48'
+}
+{
+  message: 'token checked',
+  visitedURL: '/place-order',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 12:27:57'
+}
+{
+  message: 'Order confirmed and email sent!',
+  userId: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 12:28:01'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-item',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 12:28:03'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 12:28:20'
+}
+{
+  message: 'token checked',
+  visitedURL: '/delete-cart',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 12:28:23'
+}
+{
+  message: 'remove the cart item',
+  cartId: '690edcffaa9303bb2bd3f9b6',
+  userId: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 12:28:23'
+}
+{
+  message: 'token checked',
+  visitedURL: '/delete-cart',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 12:28:25'
+}
+{
+  message: 'remove the cart item',
+  cartId: '690d9c804ed1c71878fe7b01',
+  userId: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 12:28:25'
+}
+{
+  message: 'token checked',
+  visitedURL: '/delete-cart',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 12:28:25'
+}
+{
+  message: 'remove the cart item',
+  cartId: '690d9c814ed1c71878fe7b03',
+  userId: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 12:28:25'
+}
+{
+  message: 'token checked',
+  visitedURL: '/delete-cart',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 12:28:26'
+}
+{
+  message: 'remove the cart item',
+  cartId: '690d9c824ed1c71878fe7b05',
+  userId: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 12:28:26'
+}
+{
+  message: 'token checked',
+  visitedURL: '/delete-cart',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 12:28:26'
+}
+{
+  message: 'remove the cart item',
+  cartId: '690edcfbaa9303bb2bd3f9b4',
+  userId: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 12:28:26'
+}
+{
+  message: 'Please log in to continue',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-08 15:14:01'
+}
+{
+  message: 'Please log in to continue',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-08 15:14:06'
+}
+{
+  userId: new ObjectId('690d9c6d4ed1c71878fe7af7'),
+  username: 'Arpita',
+  message: 'logged in',
+  level: 'info',
+  timestamp: '2025-11-08 15:14:19'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 15:14:19'
+}
+{
+  userId: new ObjectId('690d9c6d4ed1c71878fe7af7'),
+  username: 'Arpita',
+  message: 'logged in',
+  level: 'info',
+  timestamp: '2025-11-08 15:15:08'
+}
+{
+  userId: new ObjectId('690d9c6d4ed1c71878fe7af7'),
+  username: 'Arpita',
+  message: 'logged in',
+  level: 'info',
+  timestamp: '2025-11-08 15:15:11'
+}
+{
+  userId: new ObjectId('690d9c6d4ed1c71878fe7af7'),
+  username: 'Arpita',
+  message: 'logged in',
+  level: 'info',
+  timestamp: '2025-11-08 15:15:12'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 15:15:15'
+}
+{
+  message: 'token checked',
+  visitedURL: '/custom-pizza',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 15:16:31'
+}
+{
+  message: 'user added cart item',
+  pizzaId: '690208cf8ab92b674672c8ce',
+  userId: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 15:16:31'
+}
+{
+  message: 'token checked',
+  visitedURL: '/custom-pizza',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 15:16:35'
+}
+{
+  message: 'user added cart item',
+  pizzaId: '690208cf8ab92b674672c8cf',
+  userId: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 15:16:35'
+}
+{
+  message: 'token checked',
+  visitedURL: '/custom-pizza',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 15:16:59'
+}
+{
+  message: 'user build their pizza',
+  userId: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 15:16:59'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-item',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 15:17:04'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 15:17:06'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 15:17:12'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 15:17:13'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 15:17:14'
+}
+{
+  message: 'token checked',
+  visitedURL: '/decre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 15:17:17'
+}
+{
+  message: 'token checked',
+  visitedURL: '/decre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 15:17:18'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 15:17:19'
+}
+{
+  message: 'token checked',
+  visitedURL: '/place-order',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 15:17:33'
+}
+{
+  message: 'Order confirmed and email sent!',
+  userId: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 15:17:38'
+}
+{
+  message: 'token checked',
+  visitedURL: '/place-order',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 15:19:33'
+}
+{
+  message: 'Order confirmed and email sent!',
+  userId: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 15:19:36'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-item',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-08 15:19:59'
+}
+{
+  message: 'Please log in to continue',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-09 11:06:09'
+}
+{
+  message: 'Please log in to continue',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-09 11:06:17'
+}
+{
+  message: 'Please log in to continue',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-09 11:06:19'
+}
+{
+  userId: new ObjectId('690d99f1f58490989b7ae9ce'),
+  username: 'Rohan',
+  message: 'logged in',
+  level: 'info',
+  timestamp: '2025-11-09 11:06:28'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-09 11:06:28'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-item',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-09 11:06:37'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-09 11:07:02'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-item',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-09 11:07:02'
+}
+{
+  userId: new ObjectId('690d9c6d4ed1c71878fe7af7'),
+  username: 'Arpita',
+  message: 'logged in',
+  level: 'info',
+  timestamp: '2025-11-09 11:07:28'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-09 11:07:28'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-09 11:07:32'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-09 11:07:35'
+}
+{
+  message: 'token checked',
+  visitedURL: '/place-order',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-09 11:07:40'
+}
+{
+  message: 'Order confirmed and email sent!',
+  userId: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-09 11:07:45'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-item',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-09 11:07:50'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-item',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-09 11:08:16'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-09 11:09:11'
+}
+{
+  message: 'token checked',
+  visitedURL: '/delete-cart',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-09 11:09:16'
+}
+{
+  message: 'remove the cart item',
+  cartId: '690f11930a0739db3b41fad5',
+  userId: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-09 11:09:16'
+}
+{
+  message: 'token checked',
+  visitedURL: '/delete-cart',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-09 11:09:19'
+}
+{
+  message: 'remove the cart item',
+  cartId: '690f11770a0739db3b41fad0',
+  userId: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-09 11:09:19'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-09 11:09:21'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-09 11:09:21'
+}
+{
+  message: 'token checked',
+  visitedURL: '/incre-quantity',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-09 11:09:22'
+}
+{
+  message: 'token checked',
+  visitedURL: '/delete-cart',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-09 11:09:23'
+}
+{
+  message: 'remove the cart item',
+  cartId: '690f117b0a0739db3b41fad2',
+  userId: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-09 11:09:23'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d9c6d4ed1c71878fe7af7',
+  username: 'Arpita',
+  level: 'info',
+  timestamp: '2025-11-09 11:09:25'
+}
+{
+  message: 'Please log in to continue',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-09 18:42:14'
+}
+{
+  message: 'Please log in to continue',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-09 18:44:40'
+}
+{
+  message: 'Please log in to continue',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-09 18:44:45'
+}
+{
+  message: 'Please log in to continue',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-09 18:44:50'
+}
+{
+  message: 'Please log in to continue',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-09 18:45:35'
+}
+{
+  message: 'Please log in to continue',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-09 18:47:12'
+}
+{
+  message: 'Please log in to continue',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-09 18:47:18'
+}
+{
+  message: 'Please log in to continue',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-09 18:47:20'
+}
+{
+  message: 'Please log in to continue',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-09 18:47:20'
+}
+{
+  userId: new ObjectId('690d99f1f58490989b7ae9ce'),
+  username: 'Rohan',
+  message: 'logged in',
+  level: 'info',
+  timestamp: '2025-11-09 18:47:30'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-09 18:47:30'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-09 18:47:34'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-09 18:47:36'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-09 18:47:49'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-09 18:48:14'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-09 18:49:00'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-09 18:49:03'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-09 18:49:15'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-09 18:49:19'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-09 18:51:53'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-item',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-09 18:53:30'
+}
+{
+  userId: new ObjectId('690d99f1f58490989b7ae9ce'),
+  username: 'Rohan',
+  message: 'logged in',
+  level: 'info',
+  timestamp: '2025-11-09 18:53:37'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-cart',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-09 18:53:37'
+}
+{
+  message: 'token checked',
+  visitedURL: '/get-item',
+  userID: '690d99f1f58490989b7ae9ce',
+  username: 'Rohan',
+  level: 'info',
+  timestamp: '2025-11-09 18:54:01'
+}
+{
+  message: 'Please log in to continue',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-09 18:54:05'
+}
+{
+  message: 'Please log in to continue',
+  userId: 'unknown user',
+  username: 'unknown user',
+  level: 'error',
+  timestamp: '2025-11-09 18:54:08'
+}
